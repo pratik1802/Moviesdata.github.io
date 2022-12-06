@@ -1,1 +1,6 @@
-# Moviesdata.github.io
+![Screenshot (23)](https://user-images.githubusercontent.com/114296841/205943725-0a8c04eb-3572-44d6-b76b-a3c069735910.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/114296841/205943734-5f8028c4-86ba-459d-9e01-c74feef89c50.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/114296841/205943736-c037f399-4587-4af4-b99b-175375077ac9.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/114296841/205943743-30d3d621-a57a-48e9-a47f-599ae8f99c4f.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/114296841/205943750-de7217f9-6769-43c1-99d7-1a68175ac8db.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/114296841/205943754-a6f68f4b-3af8-498b-b972-25137626f493.png)
